@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/mapbox/tokml.png)](https://travis-ci.org/mapbox/tokml) [![Coverage Status](https://coveralls.io/repos/mapbox/tokml/badge.png)](https://coveralls.io/r/mapbox/tokml)
 
-# tokml
+# Looka GeoJson to KML Converter
 
 Convert [GeoJSON](http://geojson.org/) to [KML](https://developers.google.com/kml/documentation/).
 
