@@ -24,16 +24,18 @@
   "author": "Tom MacWright",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "glob": "~3.2.6",
     "corslite": "0.0.5",
-    "tap": "~0.4.8",
-    "fuzzer": "0.0.0",
     "coveralls": "~2.10.0",
-    "istanbul": "~0.2.11"
+    "fuzzer": "0.0.0",
+    "glob": "~3.2.6",
+    "istanbul": "~0.2.11",
+    "tap": "~0.4.8"
   },
   "dependencies": {
+    "bootstrap": "^5.0.1",
     "minimist": "0.1.0",
+    "rw": "0.0.4",
     "strxml": "0.0.0",
-    "rw": "0.0.4"
+    "tokml": "^0.4.0"
   }
 }
