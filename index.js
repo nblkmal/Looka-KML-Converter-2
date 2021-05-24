@@ -1,3 +1,5 @@
+import 'boxicons';
+
 var strxml = require('strxml'),
     tag = strxml.tag,
     encode = strxml.encode;
